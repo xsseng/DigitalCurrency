@@ -1,0 +1,10 @@
+[dbMysql]
+host = localhost
+port = 3306
+user = root
+password = root
+db_name = currency
+
+[huobi]
+api_key = 96692376-cdgs9k03f3-f1681d3d-e436d
+secret = 904e1287-a007acab-1a9a4af1-178b7
